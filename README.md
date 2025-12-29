@@ -25,11 +25,11 @@ Exports all mailboxes sorted by size to help identify users approaching quota th
 
 (More Exchange Online scripts will be added as I continue organizing my automation library.)
 
-🆔 Entra ID (Azure AD)
+Entra ID (Azure AD)
 Identity‑focused automation such as group audits, lifecycle tasks, and access reporting.
 (Coming soon.)
 
-📁 SharePoint Online
+SharePoint Online
 Governance and cleanup automation, including soft‑delete bin cleanup and site audits.
 (Coming soon.)
 
